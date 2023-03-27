@@ -30,12 +30,6 @@
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
-		<dependency>
-			<groupId>org.json</groupId>
-			<artifactId>json</artifactId>
-			<version>20160212</version>
-		</dependency>
-		
 		<!-- test dependencies -->
 		<dependency>
 			<groupId>junit</groupId>
